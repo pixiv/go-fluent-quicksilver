@@ -10,6 +10,10 @@ This project is under developing now.
   - [ ] heartbeat
   - [ ] receiving ACK response
   - [x] Data marshaling using [tinylib/msgp](https://github.com/tinylib/msgp)
+  - [ ] file buffer
+- [ ] forward input
+- [ ] file input
+- [ ] logger
 
 ## License
 
